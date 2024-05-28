@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d1f947357eb5a100337ec2cb6e64402f4f000f96e3b77dbab542671392a7f69
-size 265
+---
+title: Image Captioner 3 In 1
+emoji: ⚡
+colorFrom: green
+colorTo: green
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
